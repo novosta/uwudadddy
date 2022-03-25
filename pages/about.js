@@ -15,7 +15,7 @@ const Heading = styled.h1`
   font-weight: 900;
 `;
 
-const Hero = styled.section`
+const dumbass = styled.section`
 	background-color:white;
 	width: 80%;
 	display: inline-block;
@@ -33,9 +33,9 @@ export default function About() {
       <Hero>
         <Heading>ABOUT</Heading>
       </Hero>
-      <section>
+      <dumbass>
       <h1>test</h1>
-      </section>
+      </dumbass>
     </>
   );
 }

@@ -29,10 +29,7 @@ const Navbar = () => {
         <Link href='/about' passHref>
           <StyledLink>About</StyledLink>
         </Link>
-        <Link href='/contact' passHref>
-          <StyledLink>Contact</StyledLink>
-        </Link>
-        <Link href='https://cdn.discordapp.com/attachments/956722558466682954/956728028250112041/Lila.txt' passHref>
+        <Link href='https://cdn.discordapp.com/attachments/956722558466682954/956793393487433758/Lila.zip' passHref>
           <StyledLink>Download</StyledLink>
         </Link>
       </div>

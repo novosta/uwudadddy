@@ -28,8 +28,9 @@ export default function About() {
         <Heading>ABOUT</Heading>
       </Hero>
       <div class="center">
-        <h1>Hello! this is the creator of lila, and i wanted to say this is kinda of a protest agaist schools using NetRef mostly and that it's an invasion of privacy.</h1>
+        <h2>Hello! this is the creator of lila, and i wanted to say this is kinda of a protest agaist schools using NetRef mostly and that it's an invasion of privacy.</h2>
         <h1>___________________________________________________________</h1>
+        <h2>Please Suggest Games! Join The Discord :) https://discord.gg/VRYUughAGq</h2>
       </div>
 
     </>

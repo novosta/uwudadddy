@@ -24,6 +24,7 @@ export default function Home() {
       </Head>
       <Hero>
         <Heading>Lila</Heading>
+        <h1>What does this look like?</h1>
       </Hero>
     </>
   );

@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+section
+{
+	background-color:yellowgreen;
+	width: 80%;
+	display: inline-block;
+}
+
+#mid
+{
+    margin: 0 auto;
+}

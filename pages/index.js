@@ -24,7 +24,7 @@ export default function Home() {
       </Head>
       <Hero>
         <Heading>Lila</Heading>
-        <h1>| NetRef And Smoothwall Exploit</h1>
+        <h1>| Ofline Gaming Pack, Protest Agaist NetRef</h1>
       </Hero>
     </>
   );

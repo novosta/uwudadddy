@@ -15,6 +15,14 @@ const Heading = styled.h1`
   font-weight: 900;
 `;
 
+const Hero = styled.section`
+	background-color:white;
+	width: 80%;
+	display: inline-block;
+  margin: 0 auto;
+`;
+
+
 export default function About() {
   return (
     <>

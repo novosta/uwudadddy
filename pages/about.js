@@ -15,11 +15,8 @@ const Heading = styled.h1`
   font-weight: 900;
 `;
 
-const dumbass = styled.section`
-	background-color:white;
-	width: 80%;
-	display: inline-block;
-  margin: 0 auto;
+const dumbass = styled.center`
+  text-align: center;
 `;
 
 

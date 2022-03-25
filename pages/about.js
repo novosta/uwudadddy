@@ -15,9 +15,6 @@ const Heading = styled.h1`
   font-weight: 900;
 `;
 
-const dumbass = styled.center`
-  text-align: center;
-`;
 
 
 export default function About() {

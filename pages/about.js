@@ -30,9 +30,10 @@ export default function About() {
       <Hero>
         <Heading>ABOUT</Heading>
       </Hero>
-      <dumbass>
-      <h1>test</h1>
-      </dumbass>
+      <div class="center">
+        <p>This text is centered.</p>
+      </div>
+
     </>
   );
 }

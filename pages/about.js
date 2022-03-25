@@ -25,7 +25,9 @@ export default function About() {
       <Hero>
         <Heading>ABOUT</Heading>
       </Hero>
+      <section>
       <h1>test</h1>
+      </section>
     </>
   );
 }

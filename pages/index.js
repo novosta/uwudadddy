@@ -24,7 +24,7 @@ export default function Home() {
       </Head>
       <Hero>
         <Heading>Lila</Heading>
-        <h1>| Ofline Gaming Pack, Protest Agaist NetRef</h1>
+        <h1>| Offline Gaming Pack, Protest Agaist NetRef</h1>
       </Hero>
     </>
   );
